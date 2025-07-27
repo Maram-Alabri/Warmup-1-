@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
 public class monkeyTrouble {
+    public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
+        return aSmile == bSmile;
+
+    }
 }
